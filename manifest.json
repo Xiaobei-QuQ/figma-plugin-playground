@@ -1,0 +1,8 @@
+{
+  "name": "My Figma Plugin",
+  "id": "my-figma-plugin",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "dist/code.js",
+  "ui": "ui.html"
+}
